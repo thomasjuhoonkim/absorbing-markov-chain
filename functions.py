@@ -2,6 +2,7 @@
 
 # google foobar level 3 challenge 1
 # https://brilliant.org/wiki/absorbing-markov-chains/
+# https://github.com/mkutny/absorbing-markov-chains/blob/master/amc.py
 
 # matrix rules
 # row-axis: from
