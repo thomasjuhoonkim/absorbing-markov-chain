@@ -1,6 +1,7 @@
 # PYTHON 2.7 SANDBOX
 
 # google foobar level 3 challenge 1
+# https://brilliant.org/wiki/absorbing-markov-chains/
 
 # matrix rules
 # row-axis: from
